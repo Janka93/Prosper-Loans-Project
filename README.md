@@ -1,0 +1,2 @@
+# Prosper-Loans-Project
+This project is divided into 2 major parts: the first part is EDA: exploring the dataset's variables and understanding the data's structure, patterns, oddities and relationships. The second part: taking the main insights from exploration and convey them to the others through explanantory analysis (creating a slide deck that leverages polished, explanatory visualizations to communicate results).
